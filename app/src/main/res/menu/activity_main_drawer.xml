@@ -32,5 +32,10 @@
             android:id="@id/nav_settings"
             android:icon="@android:drawable/ic_menu_myplaces"
             android:title="Params" />
+
+        <item
+            android:id="@id/web_content"
+            android:icon="@android:drawable/ic_menu_myplaces"
+            android:title="Web Content" />
     </group>
 </menu>

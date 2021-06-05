@@ -42,4 +42,9 @@
         android:name="ru.mirea.vinnikov.project.ui.settings.Settings"
         android:label="fragment_settings"
         tools:layout="@layout/fragment_settings" />
+    <fragment
+        android:id="@+id/web_content"
+        android:name="ru.mirea.vinnikov.project.ui.web_content.Web_Content"
+        android:label="fragment_web_content"
+        tools:layout="@layout/fragment_web_content" />
 </navigation>
